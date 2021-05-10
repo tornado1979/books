@@ -50,6 +50,9 @@ Pagination component is a react bootstrap component, with custom functionality a
 
 ## Small demo
 
+A small demo of the workflow of the web app.
+
+![A quick visual gif of the home page, here](/readme_imgs/demo.gif)
 
 ## Home Page
 
@@ -100,13 +103,6 @@ src/
   yarn.lock
   README.md
 ```
-
-## Screenshots
-
-![A quick visual gif of the home page, here](/readme_imgs/demo.gif)
-
-![final outcome](/readme_imgs/home-page.png)
-
 
 ## Available Scripts
 
