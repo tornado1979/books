@@ -8,11 +8,15 @@ import './home.scss';
 const NotFoundPage = () => {
   return(
     <>
-      <header><Header /></header>
+      <div className="row header">
+      <Header />
+      </div>
       <main>
         <NotFound />
       </main>
-      <footer><Footer /></footer>
+      <div className="row footer">
+        <Footer />
+      </div>
     </>
   )
 }
