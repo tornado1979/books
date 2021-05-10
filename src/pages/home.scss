@@ -1,0 +1,20 @@
+.row {
+  max-width: 80%;
+  margin: auto;
+
+  &.header {
+    margin-bottom: 2rem;
+  }
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-flow: column;
+  height: 100%;
+  min-height: 522px;
+  max-width: 80%;
+  margin: auto;
+}
+
